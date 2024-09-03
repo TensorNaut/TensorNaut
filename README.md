@@ -1,58 +1,24 @@
-<h1 align="center">Hi there, I'm Tushar Jagatap 👋</h1>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <span style="color:blue">AI Engineer | ML Engineer | Researcher</span>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me aboutI'm an AI enthusiast exploring the exciting world of advanced AI technologies, particularly machine learning and deep learning. I'm a quick learner with a collaborative spirit, always eager to connect and exchange ideas. Let's train something precious!<br>⚡ Fun fact
 
 
-<h2 align="center">About Me 🌟</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tensornaut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-jagatap-a67690244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TensorNaut) 
 
-<p align="center">
-  I'm an AI enthusiast exploring the exciting world of advanced AI technologies, particularly machine learning and deep learning. I'm a quick learner with a collaborative spirit, always eager to connect and exchange ideas. Let's chat!
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TensorNaut&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TensorNaut&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TensorNaut&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">Connect with Me 📫</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TensorNaut&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <a href="https://twitter.com/jagatap_tushar"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tusharr_0107/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tushar-jagatap/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TensorNaut&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2 align="center">GitHub Stats 📊</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=TensorNaut&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--STREAKS and STATS-->
-<p align="center">
-  <img alt="Tushar's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Jagatap&theme=dark" />
-  <img alt="Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tushar-Jagatap&show_icons=true&theme=dark" />
-  <a href="https://github.com/Tushar-Jagatap/"><img alt="Tushar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Jagatap&layout=compact&theme=dark" /></a>
-</p>
-
-<h2 align="center">GitHub Activity Graph 📈</h2>
-
-<p align="center">
-  <img alt="GitHub Activity Graph for Commits" src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Jagatap&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
-</p>
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-<h2 align="center">Skills 🛠️</h2>
-
-<h3 align="center">Programming Languages</h3>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<h3 align="center">Frameworks and Libraries</h3>
-
-<p align="center">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
