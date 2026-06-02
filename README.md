@@ -190,9 +190,9 @@ interests = [
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=TensorNaut&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080810&title_color=00FFFF&text_color=E0E0E0&icon_color=FFB700&ring_color=00FFFF" />
+<!-- <img height="185em" src="https://github-readme-stats.vercel.app/api?username=TensorNaut&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080810&title_color=00FFFF&text_color=E0E0E0&icon_color=FFB700&ring_color=00FFFF" />
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TensorNaut&layout=compact&langs_count=8&hide_border=true&bg_color=080810&title_color=00FFFF&text_color=E0E0E0&icon_color=FFB700" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TensorNaut&layout=compact&langs_count=8&hide_border=true&bg_color=080810&title_color=00FFFF&text_color=E0E0E0&icon_color=FFB700" /> -->
 
 <br/><br/>
 
@@ -288,13 +288,13 @@ interests = [
 
 <div align="center">
 
-## `>> TROPHIES.db`
+<!-- ## `>> TROPHIES.db` -->
 
-<br/>
+<!-- <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TensorNaut&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
